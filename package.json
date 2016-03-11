@@ -1,0 +1,26 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "Rando utility functions that I use in most TS/JS projects.",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nozzlegear/utils.ts.git"
+  },
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nozzlegear/utils.ts/issues"
+  },
+  "homepage": "https://github.com/nozzlegear/utils.ts#readme",
+  "dependencies": {
+    "dateformat": "^1.0.12",
+    "lodash": "^4.6.1",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "winjs": "^4.4.0"
+  }
+}
