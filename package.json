@@ -2,7 +2,7 @@
   "name": "utils",
   "version": "1.0.0",
   "description": "Rando utility functions that I use in most TS/JS projects.",
-  "main": "utils.js",
+  "main": "dist/utils.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
