@@ -1,6 +1,7 @@
 {
   "name": "utils",
   "main": "dist/utils.d.ts",
+  "version": 1.1,
   "author": "Joshua Harms <joshua@nozzlegear.com>",
   "description": "Rando utility functions that I use in most TS/JS projects.",
   "dependencies": {
@@ -8,8 +9,6 @@
     "lodash": "registry:npm/lodash#4.0.0+20160305082308"
   },
   "ambientDependencies": {
-    "react": "registry:dt/react#0.14.0+20160302224448",
-    "react-dom": "registry:dt/react-dom#0.14.0+20151118193745",
     "toastr": "registry:dt/toastr#2.0.1+20151107212815",
     "winjs": "registry:dt/winjs#2.1.0+20160127104548",
     "winjs-definition-shims": "github:nozzlegear/winjs-definition-shims.d.ts"
